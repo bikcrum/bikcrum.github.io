@@ -1,0 +1,71 @@
+---
+---
+
+@inproceedings{pandit2026decplm,
+  abbr        = {ICRA},
+  title       = {Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move},
+  author      = {Pandit, Bikram and Shrestha, Aayam Kumar and Fern, Alan},
+  booktitle   = {International Conference on Robotics and Automation (ICRA)},
+  year        = {2026},
+  selected    = {true},
+  website     = {https://decplm.github.io/},
+  arxiv       = {2509.14342},
+  code        = {https://github.com/osudrl/Decentralized-Pinch-Lift-Move},
+  bibtex_show = {true},
+  abstract    = {We study decentralized cooperative transport using teams of N quadruped robots with arms that must pinch, lift, and move ungraspable objects through physical contact alone. Unlike prior work that relies on rigid mechanical coupling between robots and objects, we address the more challenging setting where mechanically independent robots must coordinate through contact forces alone without any communication or centralized control. Our approach enables coordination through shared policy parameters and implicit synchronization cues, scaling to arbitrary team sizes without retraining.}
+}
+
+@inproceedings{peri2025pegrad,
+  abbr        = {CoRL},
+  abbr2       = {Oral},
+  title       = {Non-conflicting Energy Minimization in Reinforcement Learning based Robot Control},
+  author      = {Peri, Skand and Perincherry*, Akhil and Pandit*, Bikram and Lee, Stefan},
+  booktitle   = {Conference on Robot Learning (CoRL)},
+  year        = {2025},
+  selected    = {true},
+  website     = {https://pvskand.github.io/projects/PEGRAD},
+  arxiv       = {2509.01765},
+  code        = {https://github.com/pvskand/PEGrad},
+  bibtex_show = {true},
+  abstract    = {Efficient robot control often requires balancing task performance with energy expenditure. We propose a hyperparameter-free gradient optimization method to minimize energy expenditure without conflicting with task performance, applying policy gradient projection between task and energy objectives. We demonstrate a reduction of 64% energy usage while maintaining comparable task performance, with sim-to-real validation on a Unitree Go2 quadruped.}
+}
+
+@inproceedings{pandit2025decmbc,
+  abbr        = {CoRL},
+  abbr2       = {Spotlight},
+  title       = {Learning Decentralized Multi-Biped Control for Payload Transport},
+  author      = {Pandit, Bikram and Gupta, Ashutosh and Gadde, Mohitvishnu S. and Johnson, Addison and Shrestha, Aayam Kumar and Duan, Helei and Dao, Jeremy and Fern, Alan},
+  booktitle   = {Conference on Robot Learning (CoRL)},
+  year        = {2024},
+  selected    = {true},
+  website     = {https://decmbc.github.io/},
+  arxiv       = {2406.17279},
+  code        = {https://github.com/osudrl/decentralized_multibiped_controller},
+  bibtex_show = {true},
+  abstract    = {We replace wheels with multiple bipedal robots attached to a carrier for payload transport on rough terrain. Our main contribution is a decentralized controller that works with varying numbers and configurations of robots without retraining, trained via reinforcement learning in simulation and transferred to the real world, with results shown on systems of two and three Cassie robots.}
+}
+
+@inproceedings{duan2024visionbipedal,
+  abbr        = {ICRA},
+  abbr2       = {Best Paper Finalist},
+  title       = {Learning Vision-Based Bipedal Locomotion for Challenging Terrain},
+  author      = {Duan, Helei and Pandit, Bikram and Gadde, Mohitvishnu S. and {van Marum}, Bart and Dao, Jeremy and Kim, Chanho and Fern, Alan},
+  booktitle   = {International Conference on Robotics and Automation (ICRA)},
+  year        = {2024},
+  selected    = {true},
+  arxiv       = {2309.14594},
+  bibtex_show = {true},
+  abstract    = {Reinforcement learning for bipedal locomotion has demonstrated robust gaits over moderate terrains using proprioceptive sensing, but blind controllers fail in environments requiring visual perception. We propose a fully-learned system that enables bipedal robots to react to local terrain while maintaining travel speed and direction, achieving successful sim-to-real transfer without explicit pose estimation.}
+}
+
+@inproceedings{peri2024maskedtraining,
+  abbr        = {CoRL},
+  title       = {Simple Masked Training Strategies Yield Control Policies That Are Robust to Sensor Failure},
+  author      = {Peri, Skand and Pandit, Bikram and Kim, Chanho and Li, Fuxin and Lee, Stefan},
+  booktitle   = {Conference on Robot Learning (CoRL)},
+  year        = {2024},
+  selected    = {true},
+  html        = {https://openreview.net/forum?id=AsbyZRdqPv},
+  bibtex_show = {true},
+  abstract    = {Sensor failures are common in real-world robot deployments, leading to potential catastrophic outcomes. We propose training reinforcement learning policies that are robust to sensor failures using a multimodal encoder and a training strategy that simulates sensor failures by randomly dropping sensor modalities, evaluated on bipedal locomotion and robotic manipulation.}
+}

@@ -1,0 +1,12 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/resume.pdf # path to your CV PDF file
+email: bikcrum@gmail.com # your email address
+scholar_userid: NXiLN3oAAAAJ # your Google Scholar ID
+github_username: bikcrum
+linkedin_username: bikcrum
+youtube_id: bikcrum
+stackoverflow_id: 6117565
+x_username: bikcrum
+facebook_id: bikcrum
