@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥈 Won **2nd Prize** in a hackathon organized by the **AgAID Institute** (sponsored by Microsoft), competing against 32 teams from 8+ universities.
+🥈 Our team own **2nd Prize** in a hackathon organized by the **AgAID Institute** (sponsored by Microsoft), competing against 32 teams from 8+ universities.

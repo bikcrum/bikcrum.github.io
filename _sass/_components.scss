@@ -328,6 +328,7 @@ ul.task-list input[type="checkbox"] {
 // Large, centered video embed for project detail pages
 
 .video-embed-large {
+  position: relative;
   width: 100%;
   max-width: 720px;
   aspect-ratio: 16 / 9;
@@ -349,7 +350,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 .selected-publications-heading,
-.news-heading {
+.news-heading,
+.patents-heading {
   margin-top: 2rem;
 }
 

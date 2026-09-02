@@ -4,10 +4,7 @@ title: archive
 permalink: /archive/
 nav: false
 sitemap: false
-description: An unlinked archive preserving older content from bikcrum.com before it was superseded by this site.
 ---
-
-This page preserves content from the earlier version of this site (bikcrum.com) that isn't part of the main portfolio. It's intentionally not linked from anywhere else on this site.
 
 ## School Honors & Awards
 

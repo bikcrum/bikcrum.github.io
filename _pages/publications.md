@@ -20,6 +20,7 @@ nav_order: 2
 </div>
 
 ## Patents
+{: .patents-heading }
 
 <div class="publications">
 <ol class="bibliography">
