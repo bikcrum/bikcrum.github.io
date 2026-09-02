@@ -1,0 +1,19 @@
+# Bikram Pandit
+
+> PhD candidate in Artificial Intelligence at Oregon State University (Dynamic Robotics and AI Lab, advised by Alan Fern). Research focuses on reinforcement learning for legged, wheeled, and hybrid single- and multi-robot systems, with a track record of transferring policies from simulation to hardware across platforms including Cassie, Digit, Spot, Unitree Go2, Unitree H1, and D1.
+
+Previously interned at the RAI Institute (formerly Boston Dynamics AI Institute) and at MiCROTEC. Before the PhD, worked several years as a Senior Software Engineer at Digital Product Labs.
+
+## Pages
+
+- [About](https://bikcrum.com/): bio, research focus, news/milestones, selected publications
+- [Publications](https://bikcrum.com/publications/): full list of peer-reviewed papers and a patent, grouped by year
+- [Projects](https://bikcrum.com/projects/): competition wins, ongoing research explorations, coursework, capstone project, and open-source contributions
+- [CV](https://bikcrum.com/assets/pdf/resume.pdf): resume PDF
+
+## Contact
+
+- Email: bikcrum@gmail.com
+- GitHub: https://github.com/bikcrum
+- LinkedIn: https://www.linkedin.com/in/bikcrum
+- Google Scholar: https://scholar.google.com/citations?user=NXiLN3oAAAAJ
