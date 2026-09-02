@@ -23,8 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Artificial Intelligence at Oregon State University, in the [Dynamic Robotics and AI Lab](https://mime.engineering.oregonstate.edu/research/drl/people.html), advised by [Alan Fern](https://engineering.oregonstate.edu/about/people/alan-fern). My research focuses on reinforcement learning for legged, wheeled, and hybrid systems, spanning single-robot control to decentralized multi-robot coordination, with an emphasis on transferring policies from simulation to hardware across bipeds (Cassie, D1), quadrupeds (Spot, Unitree Go2), and humanoids (Digit, Unitree H1).
+I am a PhD candidate in Artificial Intelligence at Oregon State University, in the [Dynamic Robotics and AI Lab](https://mime.engineering.oregonstate.edu/research/drl/people.html), advised by [Alan Fern](https://engineering.oregonstate.edu/about/people/alan-fern). My research focuses on reinforcement learning for legged, wheeled, and hybrid single- and multi-robot systems, with a proven track record of transferring policies from simulation to hardware, across Cassie, D1, Spot, Unitree Go2, Digit, and Unitree H1.
 
-I previously interned at the [RAI Institute](https://rai-inst.com/) (formerly Boston Dynamics AI Institute), where I worked on humanoid locomotion and loco-manipulation, and at [MiCROTEC](https://www.microtec.com/en-us) as a Machine Learning intern, where I accelerated large-scale vision model training pipelines.
-
-Before my PhD, I spent several years as a Senior Software Engineer at Digital Product Labs, where I designed and deployed production machine learning systems across mobile, web, and cloud platforms.
+I previously interned at the [RAI Institute](https://rai-inst.com/) (formerly Boston Dynamics AI Institute), working on humanoid locomotion and loco-manipulation, and at [MiCROTEC](https://www.microtec.com/en-us) as a Machine Learning intern. Before my PhD, I spent several years as a Senior Software Engineer at Digital Product Labs, designing and deploying production ML systems.

@@ -1,9 +1,13 @@
 ---
 layout: page
-title: archive
-permalink: /archive/
+title: extras
+permalink: /extras/
 nav: false
 sitemap: false
+_styles: |
+  .post-header {
+    display: none;
+  }
 ---
 
 ## School Honors & Awards

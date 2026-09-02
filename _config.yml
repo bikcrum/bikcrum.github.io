@@ -10,7 +10,7 @@ contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate at Oregon State University researching multi-robot control, reinforcement learning, and sim-to-real transfer for legged robots.
 footer_text: >
-  <a href="/archive/" title="Explore more">🧐</a>
+  <a href="/extras/" title="Explore more">🧐</a>
 keywords: robotics, reinforcement learning, sim-to-real transfer, multi-robot systems, legged locomotion, machine learning, Oregon State University # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -118,7 +118,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
   # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-  google: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+  google: G-BQZ902QBD6 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
   cronitor: # cronitor RUM analytics site ID (format: XXXXXXXXX)
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
