@@ -55,6 +55,8 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
   - [Getting started](#getting-started)
   - [Table Of Contents](#table-of-contents)
   - [Installing and Deploying](#installing-and-deploying)
+    - [Deployment pipeline](#deployment-pipeline)
+    - [Manual redeploy](#manual-redeploy)
   - [Customizing](#customizing)
   - [Plugin Ecosystem](#plugin-ecosystem)
   - [Using AI Agents](#using-ai-agents)
@@ -89,7 +91,7 @@ For general al-folio installation details, see [docs/INSTALL.md](docs/INSTALL.md
 
 1. **Push to `main`.** The `.github/workflows/deploy.yml` workflow triggers automatically on pushes that touch relevant files (`.md`, `.liquid`, `assets/**`, `.yml`, etc.).
 2. **The workflow builds the Jekyll site** and pushes the built output to the `gh-pages` branch (via `JamesIves/github-pages-deploy-action`). Don't edit `gh-pages` directly — it's regenerated on every deploy.
-3. **GitHub Pages serves the `gh-pages` branch.** In the repo's **Settings → Pages**, the source must be set to **"Deploy from a branch"** → branch `gh-pages` → folder `/ (root)`. This template does *not* use the newer native "GitHub Actions" deployment source — it pushes to a branch instead.
+3. **GitHub Pages serves the `gh-pages` branch.** In the repo's **Settings → Pages**, the source must be set to **"Deploy from a branch"** → branch `gh-pages` → folder `/ (root)`. This template does _not_ use the newer native "GitHub Actions" deployment source — it pushes to a branch instead.
 4. **Custom domain**: the `CNAME` file at the repo root (containing `bikcrum.com`) tells GitHub Pages which domain to serve under. DNS for `bikcrum.com` points to GitHub's Pages IPs via A records; `Settings → Pages → Enforce HTTPS` should stay enabled once the domain is verified.
 
 ### Manual redeploy
