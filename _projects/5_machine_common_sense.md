@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Common Sense — 2nd Place
+title: DARPA Machine Common Sense — <strong>2nd Place</strong> (2022)
 description: DARPA-sponsored egocentric tool-use task for object retrieval in an unknown environment.
 video: https://www.youtube.com/embed/bdLk1eHsmqw
 importance: 5

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DARPA TIAMAT Challenge — 1st Place
+title: DARPA TIAMAT Challenge — <strong>1st Place</strong> (2026)
 description: Robust Spot policies for high-speed exploration, fall recovery, and obstacle avoidance in large-scale environments.
 video: https://www.youtube.com/embed/e5qHdQyPMlY
 importance: 0
